@@ -1,4 +1,4 @@
 # CIS-311
-I don't know what else to out in here.
+I don't know what else to put in here.
 
 CIS 311
